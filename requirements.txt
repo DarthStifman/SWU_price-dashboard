@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+undetected-chromedriver
+selenium
+selenium-stealth
+fake-useragent
+streamlit
+pandas
