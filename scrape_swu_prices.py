@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup4
+from bs4 import BeautifulSoup
 import json
 import time
 import undetected_chromedriver as uc 
